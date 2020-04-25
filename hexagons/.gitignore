@@ -1,0 +1,6 @@
+/node_modules
+
+# IDE configurations and yarn log
+.idea
+yarn-error.log
+yarn.lock
